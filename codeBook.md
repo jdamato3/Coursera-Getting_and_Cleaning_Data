@@ -6,7 +6,7 @@ This Code Book summarizes the following data within tidyData.txt
  - Subject: The ID of test subject
  - Activity: The type of activity performed
 
- # Activity Labels
+# Activity Labels
  - WALKING (value 1): Measurements taken while the subject was walking
  - WALKING_UPSTAIRS (value 2): Measurements taken while the subject was walking upstairs
  - WALKING_DOWNSTAIRS (value 3): Measurements taken while the subject was walking downstairs
