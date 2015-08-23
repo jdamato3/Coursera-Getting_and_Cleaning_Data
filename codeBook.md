@@ -1,0 +1,96 @@
+# Code Book
+
+This Code Book summarizes the following data within tidyData.txt
+
+# Identifiers
+ - Subject: The ID of test subject
+ - Activity: The type of activity performed
+
+ # Activity Labels
+ - WALKING (value 1): Measurements taken while the subject was walking
+ - WALKING_UPSTAIRS (value 2): Measurements taken while the subject was walking upstairs
+ - WALKING_DOWNSTAIRS (value 3): Measurements taken while the subject was walking downstairs
+ - SITTING (value 4): Measurements taken while the subject was sitting
+ - STANDING (value 5): Measurements taken while the subject was standing
+ - LAYING (value 6): Measurements taken while the subject was laying down
+ 
+# Measurements
+ - tBodyAccMeanX
+ - tBodyAccMeanY
+ - tBodyAccMeanZ
+ - tBodyAccStdX
+ - tBodyAccStdY
+ - tBodyAccStdZ
+ - tGravityAccMeanX
+ - tGravityAccMeanY
+ - tGravityAccMeanZ
+ - tGravityAccStdX
+ - tGravityAccStdY
+ - tGravityAccStdZ
+ - tBodyAccJerkMeanX
+ - tBodyAccJerkMeanY
+ - tBodyAccJerkMeanZ
+ - tBodyAccJerkStdX
+ - tBodyAccJerkStdY
+ - tBodyAccJerkStdZ
+ - tBodyGyroMeanX
+ - tBodyGyroMeanY
+ - tBodyGyroMeanZ
+ - tBodyGyroStdX
+ - tBodyGyroStdY
+ - tBodyGyroStdZ
+ - tBodyGyroJerkMeanX
+ - tBodyGyroJerkMeanY
+ - tBodyGyroJerkMeanZ
+ - tBodyGyroJerkStdX
+ - tBodyGyroJerkStdY
+ - tBodyGyroJerkStdZ
+ - tBodyAccMagMean
+ - tBodyAccMagStd
+ - tGravityAccMagMean
+ - tGravityAccMagStd
+ - tBodyAccJerkMagMean
+ - tBodyAccJerkMagStd
+ - tBodyGyroMagMean
+ - tBodyGyroMagStd
+ - tBodyGyroJerkMagMean
+ - tBodyGyroJerkMagStd
+ - fBodyAccMeanX
+ - fBodyAccMeanY
+ - fBodyAccMeanZ
+ - fBodyAccStdX
+ - fBodyAccStdY
+ - fBodyAccStdZ
+ - fBodyAccMeanFreqX
+ - fBodyAccMeanFreqY
+ - fBodyAccMeanFreqZ
+ - fBodyAccJerkMeanX
+ - fBodyAccJerkMeanY
+ - fBodyAccJerkMeanZ
+ - fBodyAccJerkStdX
+ - fBodyAccJerkStdY
+ - fBodyAccJerkStdZ
+ - fBodyAccJerkMeanFreqX
+ - fBodyAccJerkMeanFreqY
+ - fBodyAccJerkMeanFreqZ
+ - fBodyGyroMeanX
+ - fBodyGyroMeanY
+ - fBodyGyroMeanZ
+ - fBodyGyroStdX
+ - fBodyGyroStdY
+ - fBodyGyroStdZ
+ - fBodyGyroMeanFreqX
+ - fBodyGyroMeanFreqY
+ - fBodyGyroMeanFreqZ
+ - fBodyAccMagMean
+ - fBodyAccMagStd
+ - fBodyAccMagMeanFreq
+ - fBodyBodyAccJerkMagMean
+ - fBodyBodyAccJerkMagStd
+ - fBodyBodyAccJerkMagMeanFreq
+ - fBodyBodyGyroMagMean
+ - fBodyBodyGyroMagStd
+ - fBodyBodyGyroMagMeanFreq
+ - fBodyBodyGyroJerkMagMean
+ - fBodyBodyGyroJerkMagStd
+ - fBodyBodyGyroJerkMagMeanFreq
